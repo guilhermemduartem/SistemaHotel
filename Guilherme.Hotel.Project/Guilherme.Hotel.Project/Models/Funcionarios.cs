@@ -17,11 +17,11 @@ namespace Guilherme.Hotel.Project.Models {
         public string NumAgencia { get; set; }
         public string Banco { get; set; }
 
-
-
-
-
-
-
     }
+
+
 }
+
+
+
+    

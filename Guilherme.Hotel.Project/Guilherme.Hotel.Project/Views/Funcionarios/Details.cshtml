@@ -1,0 +1,82 @@
+﻿@model Guilherme.Hotel.Project.Models.Funcionarios
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Funcionarios</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Salario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Salario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Turno)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Turno)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cargo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cargo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumConvMedico)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumConvMedico)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumConOndoto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumConOndoto)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumContaCorrente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumContaCorrente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumAgencia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumAgencia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Banco)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Banco)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

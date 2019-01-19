@@ -119,3 +119,12 @@ C:\PROJETOS\SistemaHotel\Guilherme.Hotel.Project\Guilherme.Hotel.Project\obj\Deb
 C:\PROJETOS\SistemaHotel\Guilherme.Hotel.Project\Guilherme.Hotel.Project\obj\Debug\Guilherme.Hotel.Project.pdb
 C:\PROJETOS\SistemaHotel\Guilherme.Hotel.Project\Guilherme.Hotel.Project\obj\Debug\Guilherme.Hotel.Project.Migrations.InitialCreate.resources
 C:\PROJETOS\SistemaHotel\Guilherme.Hotel.Project\Guilherme.Hotel.Project\obj\Debug\Guilherme.Hotel.Project.csproj.GenerateResource.cache
+C:\PROJETOS\SistemaHotel\Guilherme.Hotel.Project\Guilherme.Hotel.Project\bin\System.Net.Http.Formatting.dll
+C:\PROJETOS\SistemaHotel\Guilherme.Hotel.Project\Guilherme.Hotel.Project\bin\System.Web.Http.dll
+C:\PROJETOS\SistemaHotel\Guilherme.Hotel.Project\Guilherme.Hotel.Project\bin\System.Web.Http.WebHost.dll
+C:\PROJETOS\SistemaHotel\Guilherme.Hotel.Project\Guilherme.Hotel.Project\bin\System.Net.Http.Formatting.xml
+C:\PROJETOS\SistemaHotel\Guilherme.Hotel.Project\Guilherme.Hotel.Project\bin\System.Web.Http.xml
+C:\PROJETOS\SistemaHotel\Guilherme.Hotel.Project\Guilherme.Hotel.Project\bin\System.Web.Http.WebHost.xml
+C:\PROJETOS\SistemaHotel\Guilherme.Hotel.Project\Guilherme.Hotel.Project\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\PROJETOS\SistemaHotel\Guilherme.Hotel.Project\Guilherme.Hotel.Project\bin\pt-br\System.Web.Http.resources.dll
+C:\PROJETOS\SistemaHotel\Guilherme.Hotel.Project\Guilherme.Hotel.Project\bin\pt-br\System.Web.Http.WebHost.resources.dll
